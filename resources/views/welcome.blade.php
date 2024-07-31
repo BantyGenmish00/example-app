@@ -9,11 +9,7 @@
     <title>Document</title>
 </head>
 <body>
-    <!-- resources/views/layouts/app.blade.php -->
-<x-header>
-    <!-- This is where the page content will be injected -->
-    @yield('content')
-</x-header>
+
 
     
 </body>
